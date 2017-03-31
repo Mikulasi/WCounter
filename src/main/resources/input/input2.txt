@@ -1,0 +1,9 @@
+To uninstall Docker
+This article from 2014 lists all directories and binaries in detail that you need to remove to delete the installation completely:
+https://therealmarv.com/how-to-fully-uninstall-the-offical-docker-os-x-installation/
+Includes boot2docker.
+Of course, you probably find a lot by just typing "docker" into the finder search box. The applications themselves can be removed by deleting the /Applications/Docker folder.
+To uninstall VirtualBox
+download the *.dmg of VirtualBox for your version if you don't have it anymore
+click on the uninstall tool in that dmg
+See: https://www.virtualbox.org/manual/ch02.html#idm871

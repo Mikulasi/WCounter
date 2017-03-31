@@ -1,0 +1,5 @@
+I also encountered the same problem, download using (Download: https://download.docker.com/mac/beta/Docker.dmg) this
+version of the mirror after it covers the local old version of the software, and then be able to skip Error warning
+You can open the program settings page. Click uninstall to re-install just fine, and MacOS Sierra should be a relationship,
+my system version is: 10.12.
+Hope to help, thank you
